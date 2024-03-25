@@ -8,5 +8,5 @@ sem o uso de bibliotecas) e o outro [exemplo usando jQuery][jquery].
 
 ![Visualização da página de exemplo](img/screenshot.jpg)
 
-[vanilla]: https://fegemo.github.io/cefet-front-end-ajax/
-[jquery]: https://fegemo.github.io/cefet-front-end-ajax/index-jquery.html
+[vanilla]: https://willsallum.github.io/cefet_front_end_ajax/
+[jquery]: https://willsallum.github.io/cefet_front_end_ajax/index-jquery.html
