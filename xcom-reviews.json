@@ -1,0 +1,28 @@
+{
+  "avaliacoes": [
+    {
+      "autor": "Astolfo Lombardi",
+      "recomenda": true,
+      "comentario": "Um jogo de ETs sinistrões",
+      "curtidas": 18
+    },
+    {
+      "autor": "Eymael Fortunato",
+      "recomenda": true,
+      "comentario": "Rola uma parada sadia entre humanos e aliens neste jogo #sqn",
+      "curtidas": 7
+    },
+    {
+      "autor": "Lagarto Atômico",
+      "recomenda": false,
+      "comentario": "Achei que os ETs eram bonzinhos",
+      "curtidas": 5
+    },
+    {
+      "autor": "Neferpitou Almeida",
+      "recomenda": true,
+      "comentario": "Doctor Blythe!",
+      "curtidas": 4
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+.game-image {
+  max-width: 100%;
+}
+
+.game-logo, .game-meta {
+  max-width: 100%;
+}
+
+.game-meta {
+  text-align: justify;
+}
+
+@media (min-width: 487px) {
+  .game-logo {
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+.review {
+  display: flex;
+  flex-direction: column;
+}
+
+p.nota {
+    color: #8c9700;
+    border: 1px solid #b8b30b;
+    padding: 0.25em 0.5em;
+}
+
+p.nota::before {
+    content: "🛈";
+}
+
+.review h3 {
+  font-size: 1em;
+}
+
+.review small {
+  position: absolute;
+  right: 15px;
+  color: #aaa;
+}
+
+.review p {
+  clear: right;
+  border: 1px solid silver;
+  border-radius: 8px;
+  padding: 0.25em 0.5em;
+  background: #f8f8f8;
+  position: relative;
+}
+
+.review.recomenda p {
+  border-color: #9999ff;
+}
+
+.review.nao-recomenda p {
+  border-color: #ffaaaa;
+}
+
+.review p::before {
+  content: "";
+  position: absolute;
+  left: 4px;
+  top: -10px;
+  width: 0;
+  height: 0;
+  opacity: 0.5;
+  border-style: solid;
+  border-width: 10px 0 0 10px;
+  border-color: transparent transparent transparent #ddd;
+}
+
+.review.recomenda p::before {
+  border-left-color: #9999ff;
+}
+
+.review.nao-recomenda p::before {
+  border-left-color: #ffaaaa;
+}
