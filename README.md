@@ -264,9 +264,9 @@ novamente, em caso de mais de 01 clique.
 [yui]: https://yuilibrary.com/
 [setup-local-server]: https://willsallum.github.io/cefet_web/classes/js7/#setup-local-server
 [ajax]: https://willsallum.github.io/cefet_front_end/classes/js7/#ajax
-[ajax-jquery]: https://willsallum.github.io/cefet_front_end/classes/js7/#ajax-jquery
-[ajax-vanilla-1]: https://willsallum.github.io/cefet_front_end/classes/js7/#ajax-vanilla-1
+[ajax-jquery]: https://willsallum.github.io/cefet_front_end/classes/js7/#2-ajax-mais-facinho-com-jquery
+[ajax-vanilla-1]: https://willsallum.github.io/cefet_front_end/classes/js7/#requisi%C3%A7%C3%B5es-ass%C3%ADncronas
 [ajax-vanilla-2]: https://willsallum.github.io/cefet_front_end/classes/js7/#ajax-vanilla-2
 [array-sort]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
 [array-find]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/find
-[fetch-api]: https://willsallum.github.io/cefet_front_end/classes/js7/#ajax-fetch
+[fetch-api]: https://willsallum.github.io/cefet_front_end/classes/js7/#3-ajax-usando-fetch--
