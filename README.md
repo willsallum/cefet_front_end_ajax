@@ -1,15 +1,15 @@
-# Guerras Estelares :stars:
+# Guerras Estelares
 
 Baixe os [arquivos aqui][download]. Um página com as intros do melhores
 filmes _ever_.
 
-[download]: https://github.com/fegemo/cefet-front-end-starwars/archive/main.zip
+[download]: https://github.com/willsallum/cefet_front_end_ajax/archive/master.zip
 ![Prévia do resultado final](imgs/star-wars.png)
 
 
 ## Atividade
 
-Você deve usar a Star Wars API (http://swapi.dev) para poder (a) carregar
+Você deve usar a Star Wars API (https://swapi.tech) para poder (a) carregar
 dinamicamente a lista de filmes e (b) também para exibir o respectivo texto
 introdutório quando o usuário selecionar um filme.
 
@@ -68,7 +68,7 @@ Com seu resultado em mãos, vamos preencher o
 cada filme.
 
 No arquivo `starwars.js`, faça uma chamada Ajax para a URL
-`https://swapi.co/api/films/`. Assim que a resposta chegar, altere a página
+`https://swapi.tech/api/films/`. Assim que a resposta chegar, altere a página
 para mostrar todos os filmes. Veja no [FAQ](#faq) se quiser lembrar como fazer.
 
 Para saber o quê está sendo retornado na chamada Ajax, você pode:
@@ -262,11 +262,11 @@ novamente, em caso de mais de 01 clique.
 [prototype]: http://prototypejs.org/
 [mootools]: https://mootools.net/
 [yui]: https://yuilibrary.com/
-[setup-local-server]: https://fegemo.github.io/cefet-web/classes/js7/#setup-local-server
-[ajax]: https://fegemo.github.io/cefet-front-end/classes/js7/#ajax
-[ajax-jquery]: https://fegemo.github.io/cefet-front-end/classes/js7/#ajax-jquery
-[ajax-vanilla-1]: https://fegemo.github.io/cefet-front-end/classes/js7/#ajax-vanilla-1
-[ajax-vanilla-2]: https://fegemo.github.io/cefet-front-end/classes/js7/#ajax-vanilla-2
+[setup-local-server]: https://willsallum.github.io/cefet_web/classes/js7/#setup-local-server
+[ajax]: https://willsallum.github.io/cefet_front_end/classes/js7/#ajax
+[ajax-jquery]: https://willsallum.github.io/cefet_front_end/classes/js7/#ajax-jquery
+[ajax-vanilla-1]: https://willsallum.github.io/cefet_front_end/classes/js7/#ajax-vanilla-1
+[ajax-vanilla-2]: https://willsallum.github.io/cefet_front_end/classes/js7/#ajax-vanilla-2
 [array-sort]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
 [array-find]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/find
-[fetch-api]: https://fegemo.github.io/cefet-front-end/classes/js7/#ajax-fetch
+[fetch-api]: https://willsallum.github.io/cefet_front_end/classes/js7/#ajax-fetch
